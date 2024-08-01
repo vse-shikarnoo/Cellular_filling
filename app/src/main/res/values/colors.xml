@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="backgroundH">#310050</color>
+    <color name="backgroundL">#000000</color>
+
+    <color name="deadH">#0D658A</color>
+    <color name="deadL">#B0FFB4</color>
+
+    <color name="aliveH">#FFB800</color>
+    <color name="aliveL">#FFF7B0</color>
+
+    <color name="lifeH">#AD00FF</color>
+    <color name="lifeL">#FFB0E9</color>
+</resources>
